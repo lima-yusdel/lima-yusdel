@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yusdel Lima
 - 👀 I’m interested in software engineering and technology.
-- 🌱 I’m currently learning more web development languages and DevSecOps.
+- 🌱 I’m currently learning more web development languages such as REST api and Node js.
 - 📫 You can reach me at xyusdel@gmail.com
 
 <!---
